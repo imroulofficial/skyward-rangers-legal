@@ -1,0 +1,5 @@
+# app-ads.txt for Skyward Rangers (com.redpenstudio.skywardrangers)
+# AdMob publisher ID is not set up yet. Add the real line in Phase 2
+# (Monetization) when the AdMob account is created. Do not invent a pub ID.
+# Format when ready:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
